@@ -1,0 +1,24 @@
+.NavBar {
+  background-color: rgb(208, 208, 208);
+  color: white;
+  display: flex;
+  align-items: center;
+
+  padding: 10px 10px;
+  margin-bottom: 20px;
+  height: 20 px;
+}
+
+.NavBar a {
+  text-decoration: none;
+  color: white;
+  padding: 0 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.links a:hover {
+    color: black;
+    border-radius: 10px;
+    position: center;
+    
+}
